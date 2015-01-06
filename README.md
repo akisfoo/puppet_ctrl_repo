@@ -1,4 +1,4 @@
-puppet-ctrl-repo
+puppet_ctrl_repo
 ================
 
 This is a puppet control repository template mainly created for my convenience.
