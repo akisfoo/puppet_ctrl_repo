@@ -7,9 +7,9 @@ mod "jeffmccune/motd"
 
 # Modules from Github
 mod 'puppet-profiles'
-  :git => 'https://github.com/sobchak/puppet-profiles.git',
+  :git => 'git://github.com/sobchak/puppet-profiles.git',
   :ref => 'production'
 
 mod 'puppet-profiles'
-  :git => 'https://github.com/sobchak/puppet-roles.git',
+  :git => 'git://github.com/sobchak/puppet-roles.git',
   :ref => 'production'
