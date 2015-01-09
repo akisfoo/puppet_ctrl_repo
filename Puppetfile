@@ -10,6 +10,6 @@ mod 'puppet-profiles',
   :git => 'git://github.com/sobchak/puppet-profiles.git',
   :ref => 'production'
 
-mod 'puppet-profiles',
+mod 'puppet-roles',
   :git => 'git://github.com/sobchak/puppet-roles.git',
   :ref => 'production'
