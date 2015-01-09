@@ -3,6 +3,6 @@ forge "http://forge.puppetlabs.com"
 # Puppet Forge modules
 mod "puppetlabs/stdlib"
 mod "puppetlabs/ntp"
-mod "saz/ssh"
+mod "jeffmccune/motd"
 
 # Modules from Github
