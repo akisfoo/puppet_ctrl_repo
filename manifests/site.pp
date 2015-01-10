@@ -1,3 +1,3 @@
 node default {
-  #include profiles::base
+  include roles::webserver
 }
