@@ -1,3 +1,3 @@
-node giouvetsi {
+node default {
   include roles::monitoring
 }
