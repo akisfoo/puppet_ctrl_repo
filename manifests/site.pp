@@ -1,7 +1,3 @@
-node default {
-  include roles::webserver
-}
-
-node treehorn {
+node giouvetsi {
   include roles::monitoring
 }
