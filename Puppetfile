@@ -3,6 +3,7 @@ forge "http://forge.puppetlabs.com"
 # Puppet Forge modules
 mod "puppetlabs/stdlib"
 mod "puppetlabs/ntp"
+mod "puppetlabs/motd"
 mod "saz/ssh"
 mod "dwerder/graphite"
 
