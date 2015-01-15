@@ -10,7 +10,7 @@ mod "dwerder/graphite"
 # Modules from Github
 mod 'puppet-profiles',
   :git => 'git://github.com/sobchak/puppet-profiles.git',
-  :ref => 'testing'
+  :ref => 'add_graphite'
 
 mod 'puppet-roles',
   :git => 'git://github.com/sobchak/puppet-roles.git',
