@@ -5,9 +5,7 @@ mod "puppetlabs/stdlib"
 mod "puppetlabs/ntp"
 mod "puppetlabs/motd"
 mod "saz/ssh"
-mod "dwerder/graphite"
 
-# Modules from Github
 # Modules from Github
 mod 'puppet-profiles',
   :git => 'git://github.com/sobchak/puppet-profiles.git',
